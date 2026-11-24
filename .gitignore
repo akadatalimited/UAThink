@@ -1,0 +1,15 @@
+*.bin
+!/models/*.bin
+*.sqlite
+*.sqlite-journal
+*.db
+*.log
+*.tmp
+core*
+/uathink
+/tmp-*.bin
+corpus/
+results/
+notes/
+*.recall
+.DS_Store

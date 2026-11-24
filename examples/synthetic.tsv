@@ -1,0 +1,12 @@
+1	ExampleMobile/5.0 (ExampleOS 19.1 like ExampleOS X) ExampleKit/605.1.15 Version/19.0 Mobile/15E148 Example/605.1
+1	ExampleMobile/4.2 (ExampleOS 18.0 like ExampleOS X) ExampleKit/604.1 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Example/604.1
+0	SyntheticCrawler/1.0 (+http://example.com/bot)
+0	ExampleSearchBot/2.0 (+http://example.com/searchbot.html)
+2	ExampleBot/2.1 (+http://example.com/bot.html)
+3	SyntheticScanProbe/1.0 (+http://example.com/scanner)
+4	synthetic-curl/9.9.9
+4	ExampleHttpLib/1.4 (ExampleLang/3.0)
+0	ExampleReadAloud/1.0 (+http://example.com/read-aloud)
+4	ExampleBench/2.3
+1	SyntheticSailfish/2.0 (ExampleOS; Mobile) ExampleGecko/20100101 ExampleFox/158.0
+1	ExampleTablet/2.1 (ExampleOS 17.3 like ExampleOS X) ExampleKit/604.1 Version/17.3 Mobile/15E148 Example/604.1
